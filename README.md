@@ -1,2 +1,2 @@
 # verify-test-repo
-Test repo
+Testy McTestface repo
